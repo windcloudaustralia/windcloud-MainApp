@@ -3,6 +3,8 @@
 # Wind Cloud Australia
 Welcome to the official GitHub repo owned and operated by Wind Cloud Australia for our iOS/iPadOS/macOS app! We aim to provide hyper-local, accurate and real-time weather information, using our ever-expanding network of sensors.
 
+Do you want to be apart of our TestFlight Team for our app? If so, email us [here](mailto:hello@windcloud.com.au)! You will get early access to the future of the WindCloud mobile and desktop apps, and your contribution will be vital to eradicate bugs as soon as possible.
+
 Click [here](https://windcloud.com.au) to have a look around, and find your location. 
 <br>
 
