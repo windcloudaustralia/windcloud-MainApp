@@ -1,9 +1,7 @@
 //
 //  LEANIcons.swift
-//  GonativeIO
 //
-//  Created by Anuj Sevak on 2021-04-21.
-//  Copyright © 2021 GoNative.io LLC. All rights reserved.
+// Copyright © 2021-2022 WindCloud Australia. All rights reserved.
 //
 
 import Foundation

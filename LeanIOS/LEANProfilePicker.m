@@ -1,6 +1,6 @@
 //
 //  LEANProfilePicker.m
-//  GoNativeIOS
+// Copyright © 2021-2022 WindCloud Australia. All rights reserved.
 //
 //  Created by Weiyin He on 5/14/14.
 // Copyright (c) 2014 GoNative.io LLC. All rights reserved.

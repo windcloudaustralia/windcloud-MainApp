@@ -2,7 +2,7 @@
 //  GNDefines.h
 //  Pods
 //
-//  Created by Hunaid Hassan on 21.06.21.
+//  Created by James Coates on 21.06.21.
 //
 
 #if __OBJC__

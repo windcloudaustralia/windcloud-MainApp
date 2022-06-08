@@ -1,6 +1,6 @@
 //
 //  LEANDocumentSharer.h
-//  GoNativeIOS
+// Copyright © 2021-2022 WindCloud Australia. All rights reserved.
 //
 //  Created by Weiyin He on 8/26/14.
 //  Copyright (c) 2014 GoNative.io LLC. All rights reserved.

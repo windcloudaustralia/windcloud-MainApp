@@ -1,9 +1,9 @@
 //
 //  GNJSBridgeInterface.h
-//  GoNativeIOS
+// Copyright © 2021-2022 WindCloud Australia. All rights reserved.
 //
-//  Created by Anuj Sevak on 2021-11-10.
-//  Copyright © 2021 GoNative.io LLC. All rights reserved.
+//  
+// Copyright © 2021-2022 WindCloud Australia. All rights reserved.
 //
 
 #import <WebKit/WebKit.h>
