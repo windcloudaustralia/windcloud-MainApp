@@ -1,6 +1,6 @@
 //
 //  GNBridgeModule.h
-//  GoNativeCore
+//  WindCloud-CORE
 //
 //  Created by James Coates on 21.06.21.
 //

@@ -1,6 +1,6 @@
 //
 //  GNEventEmitter.m
-//  GoNativeCore
+//  WindCloud-CORE
 //
 //  Created by James Coates on 07.07.21.
 //
