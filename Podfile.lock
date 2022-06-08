@@ -1,0 +1,25 @@
+PODS:
+  - GoNativeCore (1.3.1)
+  - OneSignal (3.8.1)
+  - SwiftIconFont (6.1.1)
+
+DEPENDENCIES:
+  - GoNativeCore
+  - OneSignal (< 4.0, >= 3.0.0)
+  - SwiftIconFont
+
+SPEC REPOS:
+  "git@github.com:gonativeio/gonative-specs.git":
+    - GoNativeCore
+  trunk:
+    - OneSignal
+    - SwiftIconFont
+
+SPEC CHECKSUMS:
+  GoNativeCore: 784b8f861de26ff8e3593bf5c308f9e4a7301aca
+  OneSignal: b44755cd425704bdef8d8912030ed26619446773
+  SwiftIconFont: 0a772c5ac65a40c9b0675efa37b4928158bd8e43
+
+PODFILE CHECKSUM: 8f03c584a2313895187fad69bbc521945e5c4d92
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,6 @@
+framework module GoNative {
+  umbrella header "GoNative.h"
+
+  export *
+  module * { export * }
+}
