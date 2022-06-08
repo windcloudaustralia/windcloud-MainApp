@@ -1,6 +1,6 @@
 //
 //  GNRegistrationService.m
-//  GoNativeIOS
+// Copyright © 2021-2022 WindCloud Australia. All rights reserved.
 //
 //  Created by Weiyin He on 10/3/15.
 //  Copyright © 2015 GoNative.io LLC. All rights reserved.

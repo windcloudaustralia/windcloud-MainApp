@@ -2,7 +2,7 @@
 //  GNBridge.m
 //  GoNativeCore
 //
-//  Created by Hunaid Hassan on 21.06.21.
+//  Created by James Coates on 21.06.21.
 //
 
 #import "GNBridge.h"

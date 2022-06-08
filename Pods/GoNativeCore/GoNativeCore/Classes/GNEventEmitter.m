@@ -2,7 +2,7 @@
 //  GNEventEmitter.m
 //  GoNativeCore
 //
-//  Created by Hunaid Hassan on 07.07.21.
+//  Created by James Coates on 07.07.21.
 //
 
 #import "GNEventEmitter.h"

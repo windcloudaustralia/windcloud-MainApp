@@ -2,8 +2,8 @@
 //  WindowsController.swift
 //  GonativeIO
 //
-//  Created by Hunaid Hassan on 14.06.21.
-//  Copyright © 2021 GoNative.io LLC. All rights reserved.
+//  Created by James Coates on 14.06.21.
+// Copyright © 2021-2022 WindCloud Australia. All rights reserved.
 //
 
 import Foundation

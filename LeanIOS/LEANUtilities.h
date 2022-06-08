@@ -1,6 +1,6 @@
 //
 //  LeanUtilities.h
-//  GoNativeIOS
+// Copyright © 2021-2022 WindCloud Australia. All rights reserved.
 //
 //  Created by Weiyin He on 2/4/14.
 //  Copyright (c) 2014 Weiyin He. All rights reserved.

@@ -3,7 +3,7 @@
 //  GonativeIO
 //
 //  Created by BSC Dev on 07.06.21.
-//  Copyright © 2021 GoNative.io LLC. All rights reserved.
+// Copyright © 2021-2022 WindCloud Australia. All rights reserved.
 //
 
 #import "LEANJsCustomCodeExecutor.h"

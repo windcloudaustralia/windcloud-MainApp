@@ -2,7 +2,7 @@
 //  NSURL.m
 //  GoNativeCore
 //
-//  Created by Hunaid Hassan on 18.10.21.
+//  Created by James Coates on 18.10.21.
 //
 
 #import "NSURL+GNUtilities.h"
