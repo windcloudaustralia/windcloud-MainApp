@@ -1,6 +1,6 @@
 //
 //  GNUtilities.h
-//  GoNativeCore
+//  WindCloud-CORE
 //
 //  Created by James Coates on 18.10.21.
 //
