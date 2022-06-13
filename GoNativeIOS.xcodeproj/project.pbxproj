@@ -1214,7 +1214,7 @@
 					"-ObjC",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = io.gonative.ios.jdnlmy;
+				PRODUCT_BUNDLE_IDENTIFIER = io.gonative.ios.;
 				PRODUCT_NAME = "${TARGET_NAME}";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1257,7 +1257,7 @@
 					"-ObjC",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = io.gonative.ios.jdnlmy;
+				PRODUCT_BUNDLE_IDENTIFIER = io.gonative.ios.;
 				PRODUCT_NAME = "${TARGET_NAME}";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
