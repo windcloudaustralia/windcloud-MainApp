@@ -2,7 +2,7 @@
 //  GNUtilities.m
 //  WindCloud-CORE
 //
-//  Created by James Coates on 18.10.21.
+//  Created by Wind Cloud AU on 18.10.21.
 //
 
 #import "GNUtilities.h"

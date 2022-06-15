@@ -2,7 +2,7 @@
 //  GNDefines.h
 //  Pods
 //
-//  Created by James Coates on 21.06.21.
+//  Created by Wind Cloud AU on 21.06.21.
 //
 
 #if __OBJC__

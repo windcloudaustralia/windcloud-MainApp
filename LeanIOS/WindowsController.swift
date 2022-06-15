@@ -2,7 +2,7 @@
 //  WindowsController.swift
 //  GonativeIO
 //
-//  Created by James Coates on 14.06.21.
+//  Created by Wind Cloud AU on 14.06.21.
 // Copyright © 2021-2022 WindCloud Australia. All rights reserved.
 //
 
