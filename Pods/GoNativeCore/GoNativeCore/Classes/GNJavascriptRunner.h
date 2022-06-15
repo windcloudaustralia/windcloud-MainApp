@@ -2,7 +2,7 @@
 //  GNJavascriptRunner.h
 //  Pods
 //
-//  Created by James Coates on 07.07.21.
+//  Created by Wind Cloud AU on 07.07.21.
 //
 
 @protocol GNJavascriptRunner;
