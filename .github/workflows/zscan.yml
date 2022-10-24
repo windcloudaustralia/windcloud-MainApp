@@ -42,7 +42,7 @@ jobs:
       run: ./gradlew build    # Change this to build your mobile application
 
     - name: Run Zimperium zScan
-      uses: zimperium/zscanmarketplace@bfc6670f6648d796098c251ccefcfdb98983174d
+      uses: zimperium/zscanmarketplace@b32fa0be71dd6ff2e426792c58947f7c2722f378
       timeout-minutes: 60
       with:
         # REPLACE: Zimperium Client Environment Name
