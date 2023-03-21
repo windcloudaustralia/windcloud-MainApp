@@ -2,7 +2,7 @@
 //  GNBridge.m
 //  WindCloud-CORE
 //
-//  Created by Wind Cloud AU on 21.06.21.
+//  Created by Wind Cloud AU on 1.02.22.
 //
 
 #import "GNBridge.h"
